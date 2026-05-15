@@ -56,9 +56,6 @@ python main.py
 user_id = 0 # your target user id
 ```
 
-## APIリファレンス / ドキュメント
-特になし
-
 ## 参考にしたサイト・使用したツール等
 - ChatGPT：煽り・励ましメッセージの生成をこれで行いました。（[https://chat.openai.com/](https://chat.openai.com/)）
 - note.nkmk.me | Pythonでランダムな小数・整数を生成するrandom, randrange, randintなど：[https://note.nkmk.me/python-random-randrange-randint/](https://note.nkmk.me/python-random-randrange-randint/)
